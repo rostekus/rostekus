@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rostekus
 - 👀 I’m interested in Data Science, Python, Machine Learning
 - 🌱 I’m currently learning Keras API
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Machine Learning projects.
 - 📫 How to reach me rmosorov@icloud.com
 
 <!---
